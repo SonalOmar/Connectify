@@ -4,13 +4,13 @@ import RightSideBar from "../components/RightSideBar";
 import MainContent from "../components/MainContent";
 import './Home.css';
 function Home(){
-    return 
-    (
-        <div className="Home">            
+  console.log("home");
+  return(
+    <div className="Home">
         <LeftSideBar/>
         <MainContent/>
         <RightSideBar/>
-        </div>
-    )
+    </div>
+  )
 }
 export default Home;

@@ -1,5 +1,4 @@
 import './LeftSideBar.css';
-import IonIcon from '@reacticons/ionicons';
 import LeftSideBarOpt from './LeftSideBarOpt';
 function LeftSideBar(){
    
